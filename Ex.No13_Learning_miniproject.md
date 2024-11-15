@@ -1,4 +1,4 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
@@ -112,7 +112,7 @@ print(" accuracy is ",accuracy_score(ytest,yp2))
 ```
 ### Output:
 
-![](imagename.png)
+![](1.png)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
